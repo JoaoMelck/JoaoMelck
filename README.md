@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Codando a 2 meses.<br>📚 Atualmente aprendendo python,CSS e HTML.</p>
+<p align="left">✨ Codando a 2 meses.<br>📚 Atualmente estudando python.</p>
 
 ###
 
